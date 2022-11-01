@@ -1,7 +1,7 @@
 {
-  "name": "hng-create-api-task",
+  "name": "hng9-task1",
   "version": "1.0.0",
-  "description": "",
+  "description": "- Setup a server (Hosted) - Create an **(GET)** api endoint that returns a json response:",
   "main": "app.js",
   "engines": {
     "node": "18.x"
@@ -11,16 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PrimoCrypt/HNG-Create-Api-Task.git"
+    "url": "git+https://github.com/davidadediji/hng9-task1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PrimoCrypt/HNG-Create-Api-Task/issues"
+    "url": "https://github.com/davidadediji/hng9-task1/issues"
   },
-  "homepage": "https://github.com/PrimoCrypt/HNG-Create-Api-Task#readme",
+  "homepage": "https://github.com/davidadediji/hng9-task1#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2"
   }
 }
