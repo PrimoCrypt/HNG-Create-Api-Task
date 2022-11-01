@@ -1,0 +1,22 @@
+{
+  "name": "hng-create-api-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimoCrypt/HNG-Create-Api-Task.git"
+  },
+  "author": "PrimoCrypt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrimoCrypt/HNG-Create-Api-Task/issues"
+  },
+  "homepage": "https://github.com/PrimoCrypt/HNG-Create-Api-Task#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
